@@ -1,4 +1,4 @@
-# DobaraMatPuchana
+# Virtual Assistant for Visual Imapired 
 
 ## **Jyoti** : Assistant for blind
 
@@ -62,7 +62,7 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
+    https://github.com/aryanraj-544/Virtual-Assistant-For-Visual-Impaired.git
     cd DobaraMatPuchana
     pip install -r requirements.txt
  ```
